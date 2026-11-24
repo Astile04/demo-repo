@@ -1,0 +1,64 @@
+
+
+<!DOCTYPE html>
+
+<html>
+
+<head>
+
+    <title>Contact Form</title>
+
+</head>
+
+<body>
+
+    <h2>Contact Form</h2>
+
+    <form>
+
+        Name:<br>
+
+        <input type="text" name="name"><br><br>
+
+        Email:<br>
+
+        <input type="email" name="email"><br><br>
+
+        Message:<br>
+
+        <textarea name="message" rows="5" cols="30"></textarea><br><br>
+
+        <input type="submit" value="Submit">
+
+    </form>
+
+    <hr>
+
+    <h2>Visit Us</h2>
+
+    <h3>YouTube Video</h3>
+
+    <iframe width="400" height="250"
+
+        src="https://www.youtube.com/embed/ScMzIvxBSi4"
+
+        allowfullscreen>
+
+    </iframe>
+
+    <h3>Our Location</h3>
+
+    <iframe
+
+        width="400"
+
+        height="250"
+
+        src="https://maps.google.com/maps?q=Kochi&t=&z=13&ie=UTF8&iwloc=&output=embed">
+
+    </iframe>
+
+</body>
+
+</html>
+
